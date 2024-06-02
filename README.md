@@ -9,13 +9,11 @@
 </div>
 
 ## Обо мне
-
 - Мне 14 лет, и я начинающий front-end разработчик. 
 - Ищу возможности для получения практического опыта и улучшения своих навыков.
 - Всегда рад учиться и развиваться.
 
-## Мой стек технологий
-
+##
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
