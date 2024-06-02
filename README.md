@@ -4,6 +4,7 @@
 </div>
 
 <div align="center">
+    <a href="mailto:milolo0909@mail.ru"><img src="https://img.shields.io/badge/milolo0909@mail.ru-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="milolo0909@mail.ru" /></a>
     <a href="https://t.me/milolo0909"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://t.me/milolo0909"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
 </div>
